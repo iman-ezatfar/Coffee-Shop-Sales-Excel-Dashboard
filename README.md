@@ -15,3 +15,9 @@ This dashboard provides insights to answer the following key business questions:
 5. **What is the average price/order per person?**
 6. **Which products are the best-selling in terms of quantity and revenue?**
 7. **How do sales vary by product category and type?**
+
+
+## Contact
+
+<a href="https://www.linkedin.com/in/imanezatfar"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
+<a href="mailto:iman.ezatfar89@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail"/></a>
