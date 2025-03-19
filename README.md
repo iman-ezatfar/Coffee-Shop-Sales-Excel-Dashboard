@@ -16,6 +16,24 @@ This dashboard provides insights to answer the following key business questions:
 6. **Which products are the best-selling in terms of quantity and revenue?**
 7. **How do sales vary by product category and type?**
 
+## **Clone to Repository**
+
+To clone this repository, you have the following options:
+
+1. **Using HTTPS**:
+    ```bash
+    git clone https://github.com/iman-ezatfar/Coffee-Shop-Sales--Excel-Dashboard.git
+    ```
+
+2. **Using SSH**:
+    ```bash
+    git@github.com:iman-ezatfar/Coffee-Shop-Sales--Excel-Dashboard.git
+    ```
+
+3. **Using GitHub CLI**:
+    ```bash
+    gh repo clone iman-ezatfar/Coffee-Shop-Sales--Excel-Dashboard
+    ```
 
 ## Contact
 
