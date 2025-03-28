@@ -3,9 +3,9 @@
 ## Dashboard Link
 Click the link below to view the dashboard:
 
-[View Dashboard](https://1drv.ms/x/c/144425d9130148d2/EfH7Met5VvRHlofTOT1-_c0BUxurtzCj28iMdXGLuNuYGA?e=saFll2)
+<img src="https://github.com/user-attachments/assets/f92e865c-0236-4359-9dcd-208111065e8e" alt="Screenshot 2" width="400">
 
-## Business Questions to be Answered
+## Business Questions Answered:
 This dashboard provides insights to answer the following key business questions:
 
 1. **How do sales vary by day of the week and hour of the day?**
