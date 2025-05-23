@@ -1,4 +1,4 @@
-# Coffee-Shop Sales Excel Dashboard
+# Excel Coffee-Shop Sales Dashboard
 
 ## Dashboard Link
 Click the link below to view the dashboard:
